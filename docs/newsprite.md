@@ -4,7 +4,7 @@
 
 工具栏上点击新建，可以创建一个Sprite项目
 
-<img src="image/import1.png" />
+<img src="image/new1.png" />
 
 项目名称：项目的名称，例如：test
 
@@ -16,7 +16,7 @@
 
 新建完成后如下所示
 
-<img src="image/import2.png" />
+<img src="image/new2.png" />
 
 MBuilder默认生成一个Sprite应用模板，基本结构如下：
 
