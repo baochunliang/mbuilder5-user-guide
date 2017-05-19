@@ -8,8 +8,8 @@
 
 <img src="image/package1.png" />
 
-
 如果打包失败，out_build目录中则生成错误日志文件
 
 在build.ios或者build.android文件上右键点击“查看打包历史”，则可以直接看到该应用的所有打包历史记录，同时支持下载安装包与错误日志
 
+<img src="image/package2.png" />
