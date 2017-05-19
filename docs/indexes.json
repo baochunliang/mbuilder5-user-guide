@@ -5,51 +5,40 @@
 			"contains": [
 				{
 					"subject": "环境要求",
-					"mdlink": "environment"
+					"mdlink": "1environment"
+				},
+				{
+					"subject": "更新日志",
+					"mdlink": "2changelog"
 				},
 				{
 					"subject": "安装、升级、卸载",
-					"mdlink": "install"
+					"mdlink": "3install"
 				},
 				{
-					"subject": "启动与设置",
-					"mdlink": "start"
+					"subject": "整体界面",
+					"mdlink": "4welcome"
 				}
 			]
-		},{
+		},
+		{
 			"group": "功能列表",
 			"contains": [
 				{
-					"subject": "欢迎界面",
-					"mdlink": "welcome"
+					"subject": "Sprite应用管理",
+					"mdlink": "5sprite_manage"
 				},
 				{
-					"subject": "新建Sprite项目",
-					"mdlink": "newsprite"
+					"subject": "Sprite组件使用",
+					"mdlink": "6sprite_component"
 				},
 				{
-					"subject": "导入Sprite项目",
-					"mdlink": "importsprite"
+					"subject": "Sprite应用调试",
+					"mdlink": "7sprite_debug"
 				},
 				{
-					"subject": "导出Sprite项目",
-					"mdlink": "exportsprite"
-				},
-				{
-					"subject": "Sprite代码同步",
-					"mdlink": "spritesync"
-				},
-				{
-					"subject": "Sprite日志输出",
-					"mdlink": "spritelog"
-				},
-				{
-					"subject": "构建Sprite打包资源",
-					"mdlink": "buildsprite"
-				},
-				{
-					"subject": "登陆、注册",
-					"mdlink": "login"
+					"subject": "Sprite应用打包",
+					"mdlink": "8sprite_package"
 				}
 			]
 		}
