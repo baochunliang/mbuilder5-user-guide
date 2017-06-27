@@ -2,7 +2,7 @@
 
 ----------
 
-MBuilder5提供win32和darwin两个版本，分别对应Windows系统和Mac OS X系统
+MBuilder5提供win32和mac64两个版本，分别对应Windows系统和Mac OS X系统
 
 <h2 id="cid_0">win32</h2>
 
@@ -10,7 +10,7 @@ MBuilder5提供win32和darwin两个版本，分别对应Windows系统和Mac OS X
 
 系统架构：x86、x64
  
-<h2 id="cid_1">darwin</h2>
+<h2 id="cid_1">mac64</h2>
 
 系统版本：Mac OS X 10.9以上
 
