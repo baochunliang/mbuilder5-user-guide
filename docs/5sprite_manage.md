@@ -56,8 +56,9 @@
 
 - **从Git导入-**从git仓库拉取一个项目到选中的目录，目前只支持http和https协议的地址。
 <img src="image/projectmanage/importproject-git.png" />
-导入完成后，mbuilder会在新的窗口中打开刚才导入的项目。
 <img src="image/projectmanage/importproject-git-checkout.png" />
+
+等待导入完成后，mbuilder会在新的窗口中打开刚才导入的项目。
 
 - **从SVN导入-**从SVN仓库拉取一个项目到选中的目录
 <img src="image/projectmanage/importproject-svn.png" />
