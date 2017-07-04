@@ -10,10 +10,13 @@ MBuilder5基于vscode定制开发，所以整体界面和vscode非常相似。
 
 **菜单栏-**和vscode类似，菜单栏包含了整个MBuilder的大部分的功能和配置选项。
 
-<img src="image/welcome/activitybar.png" />
+<img src="image/welcome/menubar.png" />
 
 
 **工具栏-**从左至右依次是新建、导出、导出、新窗口打开、设备列表、后台任务、登陆和注册。
+
+<img src="image/welcome/toolbar.png" />
+
 
 **活动栏-**从上至下依次是资源管理器、搜索、源码管理（GIT）、调试和拓展。
 
