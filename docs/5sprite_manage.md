@@ -49,16 +49,18 @@
 
 
 
-- **本地上传-**可以导入一个Sprite项目，Sprite项目格式以.sprite结尾。
+- **本地上传-**可以导入一个Sprite项目，Sprite项目格式以.sprite结尾，该文件来源于导出功能。
 <img src="image/projectmanage/importproject.png" />
 
 
 
 - **从Git导入-**从git仓库拉取一个项目到选中的目录，目前只支持http和https协议的地址。
 <img src="image/projectmanage/importproject-git.png" />
+
 <img src="image/projectmanage/importproject-git-checkout.png" />
 
 等待导入完成后，mbuilder会在新的窗口中打开刚才导入的项目。
+
 
 - **从SVN导入-**从SVN仓库拉取一个项目到选中的目录
 <img src="image/projectmanage/importproject-svn.png" />
@@ -67,7 +69,7 @@
 
 ----------
 
-点击工具栏上的导出按钮，可以导出一个以.sprite结尾的文件，这个就是Sprite项目文件。
+点击工具栏上的导出按钮，可以将当前打开的项目目录导出成一个以.sprite结尾的文件，这个就是Sprite项目文件。
 
 # 新窗口打开Sprite项目
 

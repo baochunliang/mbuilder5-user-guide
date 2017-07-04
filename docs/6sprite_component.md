@@ -2,7 +2,9 @@
 
 ----------
 
-component目录右键点击“Sprite组件管理”，就可以使用官方提供的Sprite组件了
+component目录右键点击"**Sprite组件管理**"，就可以使用官方提供的Sprite组件了
+
+<img src="image/componentsmanage/componentsmanage.png" />
 
 <img src="image/component1.png" />
 
