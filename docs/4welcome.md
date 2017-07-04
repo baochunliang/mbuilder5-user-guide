@@ -13,7 +13,7 @@ MBuilder5基于vscode定制开发，所以整体界面和vscode非常相似。
 <img src="image/welcome/menubar.png" />
 
 
-**工具栏-**从左至右依次是新建、导出、导出、新窗口打开、设备列表、后台任务、登陆和注册。
+**工具栏-**从左至右依次是新建、导入、导出、新窗口打开、设备列表、后台任务、最右侧还有登陆和注册。
 
 <img src="image/welcome/toolbar.png" />
 
